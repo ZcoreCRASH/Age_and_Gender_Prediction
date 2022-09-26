@@ -1,4 +1,4 @@
-# Gender and Age Prediction - Image Classification - CNN
+# Age and Gender Prediction - Image Classification - CNN
 
 The objective of the project is to detect gender and age using facial images. Convolutional Neural Network is used to classify the images. There are 2 output types namely, gender(M or F) and age.
 
@@ -18,10 +18,10 @@ The dataset chosen from kaggle, i.e. the UTKFace dataset is a large-scale face d
 - numpy
 - matplotlib
 - seaborn
+- os
 - random
 - keras
 - tensorflow
-- scikit-learn
 
 ## Neural Network
 
