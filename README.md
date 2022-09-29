@@ -10,7 +10,7 @@ The dataset chosen from kaggle, i.e. the UTKFace dataset is a large-scale face d
 
 **Download link:** https://www.kaggle.com/datasets/jangedoo/utkface-new
 
-**Environment:** kaggle
+**Environment:** Kaggle
 
 ## Libraries
 
@@ -25,7 +25,7 @@ The dataset chosen from kaggle, i.e. the UTKFace dataset is a large-scale face d
 
 ## Neural Network
 
-- CNN Network
+- Convolutional Neural Network
   
-**Gender Accuracy:** 96%
-**Age MAE:** +-6.5
+**Gender Accuracy:** 90%
+**Age MAE:**  6.5 years
